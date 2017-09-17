@@ -1,7 +1,5 @@
-<h1>Things I have learned at Bloc.io</h1>
-<ol>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Command Line</li>
-  <li>Git and GitHub</li>
-</ol>
+# Things I have learned at Bloc.io
+1. HTML
+2. CSS
+3. Command Line
+4. Git and GitHub
